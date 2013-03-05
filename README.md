@@ -16,3 +16,4 @@ tasks:
   - There it would be nice to be able to sort the data though without 'reflooding'. I think visually you would need to seperate functions that can be done without reload, and those requiring reload. 
 7.  Log in is optional. But if you do it should have a way to remember your previous floods. 
 8.  I guess the next step is to decide components and component layout. 
+
